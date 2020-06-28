@@ -1,4 +1,4 @@
-# Apply K means Agglomerative DBSCAN clustering algorithms on Donor
+# Apply K means, Agglomerative, DBSCAN clustering algorithms on DonorsChoose DataSet
 
 
 <p style="background:black">
